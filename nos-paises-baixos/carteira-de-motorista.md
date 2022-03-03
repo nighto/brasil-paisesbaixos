@@ -1,10 +1,25 @@
 # Carteira de Motorista
 
-## Migração da Carteira de Motorista brasileira para holandesa
+## Carteira de Motorista Brasileira
 
-Um dos benefícios da Regra dos 30% é a conversão da carteira de motorista brasileira pela holandesa. Note que é preciso aguardar a conclusão do processo da Regra dos 30% e que a empresa receba a carta do governo informando que o processo foi aprovado, ou seja, não é possível trocar a carteira imediatamente após a sua chegada, somente após alguns meses. Só é possível trocar a carteira brasileira caso você esteja dentro da Regra dos 30%, e o direito se extende ao seu cônjuge.
+É possível dirigir com a carteira de motorista brasileira (ou de qualquer outro país que não seja da União Europeia/EFTA) por até **185 dias** após o seu registro na prefeitura (o que gerou o BSN). Não é necessário fazer a PID (Permissão Internacional para Dirigir) no Detran. Mais informações em [https://www.iamsterdam.com/en/living/take-care-of-official-matters/cars-and-driving-licence/driving-licence](https://www.iamsterdam.com/en/living/take-care-of-official-matters/cars-and-driving-licence/driving-licence)
 
-Veja mais detalhes em: [https://www.government.nl/topics/driving-licence/exchanging-a-foreign-driving-licence-for-a-dutch-driving-licence](https://www.government.nl/topics/driving-licence/exchanging-a-foreign-driving-licence-for-a-dutch-driving-licence)
+### Carteira de Motorista Europeia
+
+Caso você tenha uma carteira de motorista europeia (União Europeia ou EFTA) poderá dirigir por até 15 anos ou a data de validade da carteira, o que for menor. Mais detalhes no link anterior.
+
+## Troca da Carteira de Motorista brasileira para holandesa
+
+Um dos benefícios da [Regra dos 30%](../regra-dos-30.md) é a conversão da carteira de motorista brasileira pela holandesa. Nesse processo, você entrega a sua carteira de motorista brasileira e recebe após alguns dias um título de condução neerlandês (Rijbewijs).
+
+A carteira de motorista teoricamente é enviada de volta ao país de origem, mas na prática eles enviam para o consulado brasileiro e é possível pegá-la de volta indo no consulado em Amsterdam, e não é necessário agendamento.
+
+Note que é preciso aguardar a conclusão do processo da Regra dos 30% e que a empresa receba a carta do governo informando que o processo foi aprovado, ou seja, não é possível trocar a carteira imediatamente após a sua chegada, somente após alguns meses. Só é possível trocar a carteira brasileira caso você esteja dentro da Regra dos 30%, e o direito se extende ao seu cônjuge.
+
+Veja mais detalhes em: [https://www.government.nl/topics/driving-licence/exchanging-a-foreign-driving-licence-for-a-dutch-driving-licence](https://www.government.nl/topics/driving-licence/exchanging-a-foreign-driving-licence-for-a-dutch-driving-licence) e [https://www.rdw.nl/over-rdw/information-in-english/private/driving-licence/can-i-exchange-a-foreign-driving-licence](https://www.rdw.nl/over-rdw/information-in-english/private/driving-licence/can-i-exchange-a-foreign-driving-licence)
 
 **Observação importante:** uma das condições para a troca é que você tenha residido no país que emitiu a carteira (ou seja, o Brasil) por pelo menos 185 dias no ano em que ela foi emitida. Caso a carteira seja uma segunda via, você pode comprovar isso com uma carteira anterior vencida, mas caso não consiga comprovar você perde o direito de realizar a troca e terá de fazer todo o processo do zero numa auto escola.
 
+### Troca de carteira de motorista europeia pela holandesa
+
+Caso você tenha uma carteira de motorista de um dos países da União Europeia ou EFTA, poderá fazer a troca pela carteira de motorista holandesa. Neste caso, não há a restrição da Regra dos 30%, e não é necessário a comprovação da residência por 185 dias. Mais detalhes nos links da seção anterior.
