@@ -2,11 +2,11 @@
 
 ## Carteira de Motorista Brasileira
 
-É possível dirigir com a carteira de motorista brasileira (ou de qualquer outro país que não seja da União Europeia/EFTA) por até **185 dias** após o seu registro na prefeitura (o que gerou o BSN). Não é necessário fazer a PID (Permissão Internacional para Dirigir) no Detran. Mais informações em [https://www.iamsterdam.com/en/living/take-care-of-official-matters/cars-and-driving-licence/driving-licence](https://www.iamsterdam.com/en/living/take-care-of-official-matters/cars-and-driving-licence/driving-licence)
+É possível dirigir com a carteira de motorista brasileira (ou de qualquer outro país que não seja da União Europeia/EFTA) por até **185 dias** após o seu registro na prefeitura (o que gerou o BSN). Não é necessário fazer a PID (Permissão Internacional para Dirigir) no Detran. Mais informações em [Foreign and Dutch driving licences in the Netherlands | I amsterdam](https://www.iamsterdam.com/en/living/take-care-of-official-matters/cars-and-driving-licence/driving-licence).
 
 ### Carteira de Motorista Europeia
 
-Caso você tenha uma carteira de motorista europeia (União Europeia ou EFTA) poderá dirigir por até **15 anos** ou a data de validade da carteira, o que for menor. Mais detalhes no link anterior.
+Caso você tenha uma carteira de motorista europeia ([União Europeia ou EFTA](https://www.rdw.nl/over-rdw/information-in-english/private/driving-licence/can-i-exchange-a-foreign-driving-licence/member-states-of-the-european-union-and-the-european-free-trade-association)) poderá dirigir por até **15 anos** ou a data de validade da carteira, o que for menor. Mais detalhes no link anterior.
 
 ## Troca da Carteira de Motorista brasileira para holandesa
 
